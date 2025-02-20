@@ -1,18 +1,37 @@
 # PY WIKI
 
-em desenvolvimento
+## **_Especificações:_**
+
+### **Objetivo:**
+
+    Reunir conhecimento sobre a aplicabilidade de python seguindo conceitos já utilizados e disponível na web, mantendo as referências de pesquisa ou de inspiração.
+    Sugerir e demonstrar exemplos de aplicações de forma prática.
+
+### **Autores:**
+
+| **name**                                | **email**                             | **github**                                 |
+|:----------------------------------------|:--------------------------------------|:------------------------------------------:|
+| Fernando Silva                          | [email](fmoliveira617@gmail.com)      | [github](https://github.com/fmoli617)      |
 
 ## Como utilizar o projeto
 
-### **Configurações Iniciais:**
+### **_Configurações Iniciais:_**
 
-#### **Ambiente Python**
+### **Configurações de ambiente**
 
-1. Acesse o site oficial pelo link.
-2. Na aba de downloads faça a procura pela versão do python do seu interesse. Minha sugestão é a possibilidade de manter na máquina versões diferentes.
-3. Faça a instalação.
-4. Indique uma versão para o path.
-5. Verifique a instalação.
+    dev...
+
+* **Python**:
+
+  * Resumo:
+
+  * Etapas:
+
+    * Escolher uma versão estável no site oficial ()
+    * Na aba de downloads faça a procura pela versão do python do seu interesse. Minha sugestão é a possibilidade de manter na máquina versões diferentes.
+    * Faça a instalação.
+    * Indique uma versão para o path.
+    * Verifique a instalação.
 
 #### **Ambiente GIT:**
 

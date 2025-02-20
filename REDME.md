@@ -17,9 +17,9 @@
 
 ### **_Configurações Iniciais:_**
 
-### **Configurações de ambiente**
-
     dev...
+
+### **_Configurações de ambiente_**
 
 * **Python**:
 
@@ -33,24 +33,36 @@
     * Indique uma versão para o path.
     * Verifique a instalação.
 
-#### **Ambiente GIT:**
+* **Ambiente GIT**
 
-1. Acesse o site oficial pelo link.
-2. Baixe a versão mais recente.
-3. Realize a instalação.
-4. Verifique a instalação.
+  * Resumo:
 
-#### **Configurando sua conta do Github:**
+    teste de texto...
 
-1. Crie sua conta.
-2. Conecte sua conta ao serviço git local.
+  * Etapas:
 
-### **VsCode:**
+    * Acesse o site oficial pelo link.
+    * Baixe a versão mais recente.
+    * Realize a instalação.
+    * Verifique a instalação.
 
-1. Acesse o site oficial pelo link.
-2. Faça a instalação.
-3. Configurações Sugeridas.
-4. Python , Git e Github.
+### **_Configurações de Serviços_**
+
+#### **Versionamento:**
+
+* Github:
+
+  1. Crie sua conta.
+  2. Conecte sua conta ao serviço git local.
+
+### **Editores de Texto:**
+
+* Microsoft - VsCode
+
+    1. Acesse o site oficial pelo link.
+    2. Faça a instalação.
+    3. Configurações Sugeridas.
+    4. Python , Git e Github.
 
 #### **"Olá mundo!" de ponta a ponta:**
 

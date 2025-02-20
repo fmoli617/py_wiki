@@ -1,0 +1,4 @@
+- instalar git
+- https://www.youtube.com/watch?v=AdzKzlp66sQ
+
+- instalar python

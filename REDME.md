@@ -9,9 +9,10 @@
 
 ### **Autores:**
 
-| **name**                                | **email**                             | **github**                                 |
-|:----------------------------------------|:--------------------------------------|:------------------------------------------:|
-| Fernando Silva                          | [email](fmoliveira617@gmail.com)      | [github](https://github.com/fmoli617)      |
+| **name**                     | **email**                           | **github**                            |**linkedn**                                            |
+|:-----------------------------|:------------------------------------|:--------------------------------------| :-----------------------------------------------------|
+| Pieter Voloshyn              |                                     |                                       | [linkedn](https://www.linkedin.com/in/pietervoloshyn/)|
+| Fernando Silva               | [email](fmoliveira617@gmail.com)    | [github](https://github.com/fmoli617) | [linkedn](https://www.linkedin.com/in/fmoliv/)        |
 
 ## Como utilizar o projeto
 
